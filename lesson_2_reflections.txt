@@ -3,3 +3,6 @@ Git starts to keep a log of it and its functions can be used for version control
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 For files in staging area, git keeps a log and they can be committed, which is not the case for all files in the working directory, unless they are introduced to the staging area using git add. This allows selection of only the files needed for version control.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can first add the file to the staging area and compare that version with the last committed version, and finally commit the change if there's logical change as compared to the last commit. If not, do not commit.
