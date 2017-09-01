@@ -9,3 +9,6 @@ You can first add the file to the staging area and compare that version with the
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When you want to want to make different versions of the program, in paralel to the main or master version.
+
+How do the diagrams help you visualize the branch structure?
+Compresses multiple commits from multiple branches, so that I can see the whole picture of the relations between the commits along the branches.
