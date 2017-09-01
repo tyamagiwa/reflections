@@ -6,3 +6,6 @@ For files in staging area, git keeps a log and they can be committed, which is n
 
 How can you use the staging area to make sure you have one commit per logical change?
 You can first add the file to the staging area and compare that version with the last committed version, and finally commit the change if there's logical change as compared to the last commit. If not, do not commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to want to make different versions of the program, in paralel to the main or master version.
