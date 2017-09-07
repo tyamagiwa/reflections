@@ -15,3 +15,6 @@ Compresses multiple commits from multiple branches, so that I can see the whole 
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Two versions of files are merged into one, with new additions and modifications kept, and deletions removed. These are represented in the diagram that to have a record of all the major version changes in a logical manner.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros are that it merges almost everything and leaves you only the unclear decisiones for you to decide. Cons are that some automatic merges may be related to merges that are left for you to make a decision, so you have to check well and make sure to take those into account.
