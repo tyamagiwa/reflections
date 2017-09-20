@@ -5,12 +5,12 @@ When I'm not working on my computer, or when changes do not require testing them
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-To remind that those changes should be tested if they work. 
+To remind that those changes should be tested if they work.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Forks are a copies of a repository on GitHub, clones are copies of a repository from GitHub to local drives, and branches are paralel versions of the files on a repository in the same respository.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
